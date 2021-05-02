@@ -1,0 +1,1 @@
+web:gunicorn codedaddys_list.wsgi
